@@ -122,7 +122,7 @@ For development, training, and deployment of the models, we are using [Jupyter N
 ---
 
 ## 🚀 Results<a name="result"></a>
-![Technical Parameters](images/technical-parameters.png)
+
 
 
 ## Team<a name="team"></a>
